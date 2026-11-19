@@ -5,5 +5,6 @@ honeypot_v2/
 ├── .gitignore
 ├── README.md
 └── docs/
-    └── threat-model.md
+    ├── threat-model.md
+    └── aws-setup.md	
 ```
